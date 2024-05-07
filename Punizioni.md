@@ -10,7 +10,7 @@ I file di punizione sono stati creati dal Head Staff in linea generale, possono 
 | **Furto**              | /tempban 5 giorni   | /tempban 15 giorni | /ban 30 giorni         | /ban Permanente        |                        |                        |
 | **Insulti**            | /tempmute 30 minuti | /tempmute 2 ore    | /tempban 1 giorno      | /ban 7 giorni          | /ban 30 giorni         | /ban Permanente        |
 | **Blasfemie**          | /tempmute 1 ora     | /tempban 1 giorno  | /ban 7 giorni          | /ban 30 giorni         | /ban 60 giorni         | /ban Permanente        |
-| **Hacking/Cheating**   | /tempban 7 giorni   | /ban 30 giorni     | /ban Permanente        |                        |                        |                        |
+| **Hacking/Cheating**   | /ban 30 giorni      | /ban Permanente    |                        |                        |                        |                        |
 | **Spamming/Advertising** | /tempmute 2 ore     | /tempban 3 giorni  | /ban 7 giorni          | /ban 15 giorni         | /ban 30 giorni         | /ban Permanente        |
 
 
