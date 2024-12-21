@@ -1,53 +1,85 @@
-## PUNIZIONI EBLCraft📒
+# PUNIZIONI EBLCraft 📒
 
-I file di punizione sono stati creati dal Head Staff in linea generale, possono essere modificate in caso di necessità e ci si può consultare in caso di dubbi o richiesta di modifiche o offese specifiche!
+I file di punizione sono stati creati dal Head Staff in modo generale. Possono essere modificati in caso di necessità, e lo staff è disponibile per consultazioni o richieste di modifiche. In caso di offese o situazioni particolari, è possibile intervenire con valutazioni specifiche.
 
+**Nota:** Le infrazioni sono cumulative tra tutte le piattaforme e modalità. Un'infrazione in una modalità (ad esempio Vanilla) o su Discord influenzerà il conteggio delle infrazioni anche nelle altre modalità.
 
-## Minecraft
-| Offesa                                                 | 1° Infrazione         | 2° Infrazione       | 3° Infrazione      | 4° Infrazione      | 5° Infrazione   | 6° Infrazione   |
-|--------------------------------------------------------|-----------------------|---------------------|--------------------|--------------------|-----------------|-----------------|
-| **Griefing**                                           | /tempban 5 giorni     | /ban 30 giorni      | /ban Permanente    |                    |                 |                 |
-| **Comportamento scorretto (razzismo, omofobia, ecc.)** | /tempmute 1 ora       | /ban 7 giorni       | /ban Permanente    |                    |                 |                 |
-| **Furto**                                              | /tempban 5 giorni     | /tempban 15 giorni  | /ban 30 giorni     | /ban Permanente    |                 |                 |
-| **Insulti**                                            | /tempmute 2 ore       | /tempmute 1 giorno  | /tempban 14 giorni | /tempban 30 giorno | /ban Permanente |                 |
-| **Insulti STAFF**                                      | /tempmute 1 giorno    | /tempmute 14 giorni | /tempban 30 giorni | /ban Permanente    |                 |                 |
-| **Skin/Nick Inappropriati**                            | /tampban 3-7 giorni   | /ban Permanente     |                    |                    |                 |                 |
-| **Blasfemie**                                          | /tempmute 1 ora       | /tempban 1 giorno   | /ban 7 giorni      | /ban 30 giorni     | /ban 60 giorni  | /ban Permanente |
-| **Hacking/Cheating**                                   | /ban 30 giorni        | /ban Permanente     |                    |                    |                 |                 |
-| **Spamming/Advertising**                               | /tempmute 2 ore       | /tempban 3 giorni   | /ban 7 giorni      | /ban 15 giorni     | /ban 30 giorni  | /ban Permanente |
-| **Evasione Ban (Account bannato)**                     | /temban allungato 30d | /ban Permanente     |                    |                    |                 |                 |
-| **Evasione Ban (Account nuovo)**                       | /ban Permanente       |                     |                    |                    |                 |                 |
+---
 
-## DISCORD
-| Offesa                                          | 1° Infrazione          | 2° Infrazione     | 3° Infrazione | 4° Infrazione  | 5° Infrazione  | 6° Infrazione  |
-|-------------------------------------------------|------------------------|-------------------|---------------|----------------|----------------|----------------|
-| **Profile Pic / Nick**                          | Avviso                 | ban 3-7 giorni    | ban perma     |                |                |                |
-| **Bestemmie Scritte**                           | Avviso + Cancellazione | Timeout 1 giorno  | ban 7 giorni  | ban 30 giorni  | ban Permanente |                |
-| **Bestemmie Parlata (Continue e a discrezione)** | Avviso                 | Timeout 1 ora     | ban 1 giorno  | ban 7 giorni   | ban 30 giorni  | ban Permanente |
-| **Insulti**                                     | Timeout 2 ore          | Timeout 1 giorno  | ban 14 giorni | ban 30 giorno  | ban Permanente |                |
-| **Insulti STAFF**                               | Timeout 1 giorno       | Timeout 14 giorni | ban 30 giorni | ban Permanente |                |                |
-| **Spamm altri Server / Discord / altro**        | ban Permanente         |                   |               |                |                |                |
-| **Stream inappropriate**                        | Avviso                 | Timeout 1 giorno  | ban 7 giorni  | ban 30 giorni  | ban Permanente |                |
+## Regole Generali
+Queste regole si applicano a tutti gli utenti, indipendentemente dalla modalità o piattaforma. Riguardano la chat, i nickname, le skin e altre interazioni globali.
 
+| **Offesa**                                                | **1° Infrazione**     | **2° Infrazione**   | **3° Infrazione**   | **4° Infrazione**   | **5° Infrazione**  | **6° Infrazione**  |
+|-----------------------------------------------------------|-----------------------|---------------------|---------------------|---------------------|--------------------|--------------------|
+| **Comportamento scorretto (razzismo, omofobia, ecc.)**    | /tempmute 1 ora       | /ban 7 giorni       | /ban Permanente     |                     |                    |                    |
+| **Insulti**                                               | /tempmute 2 ore       | /tempmute 1 giorno  | /tempban 14 giorni  | /tempban 30 giorni  | /ban Permanente    |                    |
+| **Insulti allo STAFF**                                    | /tempmute 1 giorno    | /tempmute 14 giorni | /tempban 30 giorni  | /ban Permanente     |                    |                    |
+| **Blasfemie**                                             | /tempmute 1 ora       | /tempban 1 giorno   | /ban 7 giorni       | /ban 30 giorni      | /ban 60 giorni     | /ban Permanente    |
+| **Skin/Nick Inappropriati**                               | /tempban 3-7 giorni   | /ban Permanente     |                     |                     |                    |                    |
+| **Spamming/Advertising**                                  | /tempmute 2 ore       | /tempban 3 giorni   | /ban 7 giorni       | /ban 15 giorni      | /ban 30 giorni     | /ban Permanente    |
 
-----
-### Note Importanti 📌
-In caso di situazioni di insulti o blasfemie si può prima tentare un approccio di riconcigliazione senza passare alle punizioni (se l'ambiente lo permette e il litigio non degenera).
+---
 
+## Minecraft - Vanilla
+| **Offesa**                                           | **1° Infrazione**     | **2° Infrazione**   | **3° Infrazione**   | **4° Infrazione**   | **5° Infrazione**  |
+|------------------------------------------------------|-----------------------|---------------------|---------------------|---------------------|--------------------|
+| **Griefing**                                         | /tempban 5 giorni     | /ban 30 giorni      | /ban Permanente     |                     |                    |
+| **Furto**                                            | /tempban 5 giorni     | /tempban 15 giorni  | /ban 30 giorni      | /ban Permanente     |                    |
+| **Hacking/Cheating**                                 | /ban 30 giorni        | /ban Permanente     |                     |                     |                    |
 
-Indipendentemente dalla gravità dell'infrazione precedente si prosegue in ordine di numero di infrazione;
-Ad esempio:
+---
 
-`ErenBlaze: Tempmute 1 ora per blasfemie (1° Infrazione)`
+## Minecraft - Cobblemon
+| **Offesa**                                           | **1° Infrazione**     | **2° Infrazione**   | **3° Infrazione**   | **4° Infrazione**   | **5° Infrazione**  |
+|------------------------------------------------------|-----------------------|---------------------|---------------------|---------------------|--------------------|
+| **Griefing**                                         | /tempban 5 giorni     | /ban 30 giorni      | /ban Permanente     |                     |                    |
+| **Furto**                                            | /tempban 5 giorni     | /tempban 15 giorni  | /ban 30 giorni      | /ban Permanente     |                    |
+| **Hacking/Cheating**                                 | /ban 30 giorni        | /ban Permanente     |                     |                     |                    |
 
-Alla seconda infrazione Fa un Furto
+---
 
-`ErenBlaze Tempban 3 Giorni per Furto (2° Infrazione)`
+## Minecraft - MobWars
+| **Offesa**        | **1° Infrazione** | **2° Infrazione** | **3° Infrazione** | **4° Infrazione** | **5° Infrazione** | **6° Infrazione**  |
+|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|--------------------|
+| **Cross Teaming** | /tempban 1 ora    | /tempban 12 ore   | /ban 3 giorni     | /ban 30 giorni    | /ban Permanente   |                    |
+| **Focussing**     | /tempban 12 ore   | /ban 3 giorni     | /ban 30 giorni    | /ban Permanente   |                   |                    |
+| **Uso di cheat**  | /ban 14 giorni    | /ban 30 giorni    | /ban Permanente   |                   |                   |                    |
 
-Alla Terza Eren decide di griffare
+---
 
-`ErenBlaze BanPerma per Grief (3° Infrazione)`
+## Minecraft - FortCraft
+| **Offesa**          | **1° Infrazione**  | **2° Infrazione** | **3° Infrazione**   | **4° Infrazione** |
+|---------------------|--------------------|-------------------|---------------------|-------------------|
+| **Uso di cheat**    | /ban 14 giorni     | /ban 30 giorni    | /ban Permanente     |                   |
 
-Il player potrà rientrare solo shoppando un UnBan dallo Shop del server, in caso faccia di nuovo danni come regola si parte dalla Terza infrazione quindi:
+---
 
-`ErenBlaze BanPerma per Grief (Già Perma Bannato)` oppure `ErenBlaze ban 30 Giorni per Furto (Già Perma Bannato)`
+## Discord - Regole e Punizioni
+| **Offesa**                                        | **1° Infrazione**      | **2° Infrazione**     | **3° Infrazione**     | **4° Infrazione**   | **5° Infrazione**  | **6° Infrazione**  |
+|---------------------------------------------------|------------------------|-----------------------|-----------------------|---------------------|--------------------|--------------------|
+| **Immagine profilo/Nick inappropriati**           | Avviso                 | Ban 3-7 giorni        | Ban Permanente        |                     |                    |                    |
+| **Bestemmie scritte**                             | Avviso + Cancellazione | Timeout 1 giorno      | Ban 7 giorni          | Ban 30 giorni       | Ban Permanente     |                    |
+| **Bestemmie vocali (continue o gravi)**           | Avviso                 | Timeout 1 ora         | Ban 1 giorno          | Ban 7 giorni        | Ban 30 giorni      | Ban Permanente     |
+| **Insulti**                                       | Timeout 2 ore          | Timeout 1 giorno      | Ban 14 giorni         | Ban 30 giorni       | Ban Permanente     |                    |
+| **Insulti allo STAFF**                            | Timeout 1 giorno       | Timeout 14 giorni     | Ban 30 giorni         | Ban Permanente      |                    |                    |
+| **Spam di altri server/Discord/altro**            | Ban Permanente         |                       |                       |                     |                    |                    |
+| **Stream inappropriati**                          | Avviso                 | Timeout 1 giorno      | Ban 7 giorni          | Ban 30 giorni       | Ban Permanente     |                    |
+
+---
+
+## Note Importanti 📌
+
+- **Tentativi di riconciliazione:** In caso di insulti o blasfemie, se la situazione lo permette e il litigio non degenera, è consigliabile tentare un approccio di riconciliazione prima di procedere con le punizioni.
+- **Progressione delle punizioni:** Le infrazioni seguono un ordine numerico indipendentemente dalla modalità o piattaforma. Ad esempio:
+    - **1° Infrazione:** `ErenBlaze: Tempmute 1 ora per blasfemie`
+    - **2° Infrazione:** `ErenBlaze: Tempban 12 ore per Cross Teaming`
+    - **3° Infrazione:** `ErenBlaze: Ban Permanente per griefing`
+
+---
+
+### Nota sulle richieste di UnBan
+I giocatori bannati permanentemente possono richiedere un UnBan dallo shop del server. Tuttavia, in caso di recidiva, si applicherà immediatamente la punizione corrispondente alla **terza infrazione**.
+
+Esempi:
+- `ErenBlaze: Ban Permanente per griefing (Già perma bannato)`
+- `ErenBlaze: Ban 30 giorni per furto (Già perma bannato)`
