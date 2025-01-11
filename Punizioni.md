@@ -21,20 +21,20 @@ Queste regole si applicano a tutti gli utenti, indipendentemente dalla modalità
 ---
 
 ## Minecraft - Vanilla
-| **Offesa**                                           | **1° Infrazione**     | **2° Infrazione**   | **3° Infrazione**   | **4° Infrazione**   | **5° Infrazione**  |
-|------------------------------------------------------|-----------------------|---------------------|---------------------|---------------------|--------------------|
-| **Griefing**                                         | /tempban 5 giorni     | /ban 30 giorni      | /ban Permanente     |                     |                    |
-| **Furto**                                            | /tempban 5 giorni     | /tempban 15 giorni  | /ban 30 giorni      | /ban Permanente     |                    |
-| **Hacking/Cheating**                                 | /ban 30 giorni        | /ban Permanente     |                     |                     |                    |
+| **Offesa**                                           | **1° Infrazione**    | **2° Infrazione**     | **3° Infrazione**   | **4° Infrazione**   | **5° Infrazione**  |
+|------------------------------------------------------|----------------------|-----------------------|---------------------|---------------------|--------------------|
+| **Griefing**                                         | /tempban 3-10 giorni | /ban 30 giorni        | /ban Permanente     |                     |                    |
+| **Furto**                                            | /tempban 3-10 giorni | /tempban 15-30 giorni | /ban 30 giorni      | /ban Permanente     |                    |
+| **Hacking/Cheating**                                 | /ban 30 giorni       | /ban Permanente       |                     |                     |                    |
 
 ---
 
 ## Minecraft - Cobblemon
-| **Offesa**                                           | **1° Infrazione**     | **2° Infrazione**   | **3° Infrazione**   | **4° Infrazione**   | **5° Infrazione**  |
-|------------------------------------------------------|-----------------------|---------------------|---------------------|---------------------|--------------------|
-| **Griefing**                                         | /tempban 5 giorni     | /ban 30 giorni      | /ban Permanente     |                     |                    |
-| **Furto**                                            | /tempban 5 giorni     | /tempban 15 giorni  | /ban 30 giorni      | /ban Permanente     |                    |
-| **Hacking/Cheating**                                 | /ban 30 giorni        | /ban Permanente     |                     |                     |                    |
+| **Offesa**                                           | **1° Infrazione**    | **2° Infrazione**     | **3° Infrazione**   | **4° Infrazione**   | **5° Infrazione**  |
+|------------------------------------------------------|----------------------|-----------------------|---------------------|---------------------|--------------------|
+| **Griefing**                                         | /tempban 3-10 giorni | /ban 30 giorni        | /ban Permanente     |                     |                    |
+| **Furto**                                            | /tempban 3-10 giorni | /tempban 15-30 giorni | /ban 30 giorni      | /ban Permanente     |                    |
+| **Hacking/Cheating**                                 | /ban 30 giorni       | /ban Permanente       |                     |                     |                    |
 
 ---
 
@@ -48,22 +48,32 @@ Queste regole si applicano a tutti gli utenti, indipendentemente dalla modalità
 ---
 
 ## Minecraft - FortCraft
-| **Offesa**          | **1° Infrazione**  | **2° Infrazione** | **3° Infrazione**   | **4° Infrazione** |
-|---------------------|--------------------|-------------------|---------------------|-------------------|
-| **Uso di cheat**    | /ban 14 giorni     | /ban 30 giorni    | /ban Permanente     |                   |
+| **Offesa**          | **1° Infrazione**     | **2° Infrazione**        | **3° Infrazione**         | **4° Infrazione**         | **5° Infrazione** |
+|---------------------|-----------------------|--------------------------|---------------------------|---------------------------|-------------------|
+| **Uso di cheat**    | /ban 14 giorni        | /ban 30 giorni           | /ban Permanente           |                           |                   |
+| **Cross Teaming**   | /ban 6 ore (Modalità) | /ban 2 giorni (Modalità) | /ban 15 giorni (Modalità) | /ban 30 giorni (Modalità) | /ban Permanente   |
 
 ---
 
 ## Discord - Regole e Punizioni
-| **Offesa**                                        | **1° Infrazione**      | **2° Infrazione**     | **3° Infrazione**     | **4° Infrazione**   | **5° Infrazione**  | **6° Infrazione**  |
-|---------------------------------------------------|------------------------|-----------------------|-----------------------|---------------------|--------------------|--------------------|
-| **Immagine profilo/Nick inappropriati**           | Avviso                 | Ban 3-7 giorni        | Ban Permanente        |                     |                    |                    |
-| **Bestemmie scritte**                             | Avviso + Cancellazione | Timeout 1 giorno      | Ban 7 giorni          | Ban 30 giorni       | Ban Permanente     |                    |
-| **Bestemmie vocali (continue o gravi)**           | Avviso                 | Timeout 1 ora         | Ban 1 giorno          | Ban 7 giorni        | Ban 30 giorni      | Ban Permanente     |
-| **Insulti**                                       | Timeout 2 ore          | Timeout 1 giorno      | Ban 14 giorni         | Ban 30 giorni       | Ban Permanente     |                    |
-| **Insulti allo STAFF**                            | Timeout 1 giorno       | Timeout 14 giorni     | Ban 30 giorni         | Ban Permanente      |                    |                    |
-| **Spam di altri server/Discord/altro**            | Ban Permanente         |                       |                       |                     |                    |                    |
-| **Stream inappropriati**                          | Avviso                 | Timeout 1 giorno      | Ban 7 giorni          | Ban 30 giorni       | Ban Permanente     |                    |
+| **Offesa**                              | **1° Infrazione**      | **2° Infrazione**     | **3° Infrazione**                | **4° Infrazione**   | **5° Infrazione**  | **6° Infrazione**  |
+|-----------------------------------------|------------------------|-----------------------|----------------------------------|---------------------|--------------------|--------------------|
+| **Immagine profilo/Nick inappropriati** | Kick + Avviso          | Ban 3-7 giorni        | Ban Permanente                   |                     |                    |                    |
+| **Bestemmie scritte**                   | Avviso + Cancellazione | Timeout 1 giorno      | Ban 7 giorni                     | Ban 30 giorni       | Ban Permanente     |                    |
+| **Bestemmie vocali (continue o gravi)** | Avviso                 | Timeout 1 ora         | Ban 1 giorno                     | Ban 7 giorni        | Ban 30 giorni      | Ban Permanente     |
+| **Insulti**                             | Timeout 2 ore          | Timeout 1 giorno      | Ban 14 giorni                    | Ban 30 giorni       | Ban Permanente     |                    |
+| **Insulti allo STAFF**                  | Timeout 1 giorno       | Timeout 14 giorni     | Ban 30 giorni                    | Ban Permanente      |                    |                    |
+| **Spam di altri server/Discord/altro**  | Ban Permanente         |                       |                                  |                     |                    |                    |
+| **Stream inappropriati**                | Avviso                 | Timeout 1 giorno      | Ban 7 giorni                     | Ban 30 giorni       | Ban Permanente     |                    |
+| **Abuso VC Assistenza**                 | Avviso                 | Timeout 1 giorno      | Ban 7 giorni + ruolo "nohelroom" | Ban 30 giorni       | Ban Permanente     |                    |
+| **Abuso Chat / VC**                     | Avviso                 | Timeout 1 giorno      | Ban 10 giorni                    | Ban 30 giorni       | Ban Permanente     |                    |
+
+
+## EBLCraft Website
+| **Offesa**       | **1° Infrazione** | **2° Infrazione** | **3° Infrazione** |
+|------------------|-------------------|-------------------|-------------------|
+| **Spamm report** | Avviso            | Ban               |                   |
+| **Pretese**      | Avviso            | Avviso/Ban        | Ban               |
 
 ---
 
